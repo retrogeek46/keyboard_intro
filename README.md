@@ -27,7 +27,7 @@ This is a guide to mechanical keyboards.
 
 ### Software:
 - Manufacturer software support: change rgb modes, define layers/macros, remap keys
-- QMK Firmware: open source keyboard firmware, can write code to define what happens when a key is pressed, very powerful
+- [QMK Firmware](https://github.com/qmk/qmk_firmware): open source keyboard firmware, can write code to define what happens when a key is pressed, very powerful
 - VIA: via allows you to use qmk without writing code, just a UI interface to define qmk stuff
 
 ### Types of keyboards for sale:
